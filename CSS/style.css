@@ -163,10 +163,16 @@ display: flex;
 .member-intro span:first-child{
     font-size: 16px;
 }
+#kismy-area .member-intro{
+    color: white;
+}
 #kp-area .member-intro{
     color: white;
     
 
+}
+#sz-area .member-intro{
+    color: white;
 }
 .video-container{
     position: relative;
